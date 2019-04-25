@@ -55,11 +55,11 @@ export default {
     display: none;
   }
   .container {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    border-radius: 20px 20px 0 0;
+    /*position: fixed;*/
+    /*bottom: 0;*/
+    /*right: 0;*/
+    /*left: 0;*/
+    border-radius: 20px;
     padding: 20px;
     background-color: #2f2a95;
     margin: 0 15px;

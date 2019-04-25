@@ -91,7 +91,6 @@
   }
   input {
     margin-bottom: 20px;
-    min-height: 60px;
     width: 80%;
     border-radius: 20px;
     padding: 18px 20px;
